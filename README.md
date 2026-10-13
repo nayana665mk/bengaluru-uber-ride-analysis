@@ -62,7 +62,7 @@ These are potential interventions discussed during the case study, not solutions
 
 1. Open `Class_n.ipynb` in this repository.
 2. Launch the notebook in [Google Colab](https://colab.research.google.com/).
-3. Upload the permitted dataset file and ensure the filename matches the notebook's loading code.
+3. Upload the dataset file and ensure the filename matches the notebook's loading code.
 4. Run the cells in sequence to reproduce the analysis and visualizations.
 
 **Requirements:** Python 3, Pandas, NumPy, Matplotlib, and Seaborn.
